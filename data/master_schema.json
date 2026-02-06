@@ -1,34 +1,109 @@
 {
   "metadata": {
     "uid": "rogue_01",
-    "schema_version": "1.1",
+    "schema_version": "1.2",
     "last_updated": "2026-02-06"
   },
-  "strategic_layer": {
-    "high_priority_keywords": [
-      "Agentic Workflows",
-      "B2B SaaS Strategy",
-      "Product Operations",
-      "Cross-functional Leadership",
-      "Revenue Growth"
-    ],
-    "base_summary": "Seasoned B2B professional with over 15 years of experience. Specialist in bridging the gap between technical potential and business results using automated workflows."
+  "professional_identity": {
+    "high_priority_keywords": ["Agentic Workflows", "B2B SaaS Strategy", "Product Operations", "Data Warehouse", "Neurodivergent UX"],
+    "target_personas": ["corporate_homecoming", "startup_pioneer", "ops_specialist"]
   },
   "experience_lake": [
     {
-      "job_id": "job_001",
-      "company": "Strategic B2B Solutions",
-      "role": "Product Operations Lead",
-      "tenure": "2019 to 2023",
+      "job_id": "rogue_shaw_01",
+      "company": "Rogue Inner Child",
+      "role": "Founder & Director",
+      "tenure": "2023 to Present",
+      "location": "Shaw Island, WA / Beaverton, OR",
+      "persona_alignment": ["startup", "ai_innovator", "ux_design"],
       "achievements": [
-        "Architected a centralized data lake that improved reporting accuracy by 40 percent.",
-        "Led the migration of legacy CRM systems to a modern automated stack."
-      ],
-      "tags": ["Data Strategy", "Automation"]
+        { "text": "Pioneered neurodivergent-first AI co-creation, translating GPT symbols into sacred art and intuitive design frameworks.", "tags": ["AI", "UX"] },
+        { "text": "Created and tested over 50 AI-assisted tools including rituals, UX systems, and personal productivity models.", "tags": ["R&D", "Product"] },
+        { "text": "Developed emotionally intelligent interfaces and prompt engineering chains for trauma-informed healing content.", "tags": ["Prompt Engineering", "Safety"] },
+        { "text": "Demonstrated AI as a therapeutic translator and emotional UX guide for neurodivergent identity exploration.", "tags": ["Neurodiversity", "Research"] }
+      ]
+    },
+    {
+      "job_id": "taos_consult_01",
+      "company": "Taos Mountain Consulting",
+      "role": "Founder & Principal Consultant",
+      "tenure": "2021 to 2023",
+      "location": "Taos, NM",
+      "persona_alignment": ["ops", "startup", "consulting"],
+      "achievements": [
+        { "text": "Spearheaded technical debt cleanup and site migrations for small businesses and independent founders.", "tags": ["Technical Debt", "Migration"] },
+        { "text": "Created machine-learning-informed dashboards for cohort tracking and resource allocation metrics.", "tags": ["ML", "Analytics"] },
+        { "text": "Integrated automated marketing workflows and gamified user flows to increase web-based conversions.", "tags": ["Automation", "Conversion"] },
+        { "text": "Coached founders on digital infrastructure modernization and AI-enhanced storytelling.", "tags": ["Coaching", "Digital Strategy"] }
+      ]
+    },
+    {
+      "job_id": "homestead_01",
+      "company": "Independent Homesteader",
+      "role": "Systems Architect & Caregiver",
+      "tenure": "2021 to 2023",
+      "location": "Off-grid, Taos Mesa, NM",
+      "persona_alignment": ["resilience", "ops"],
+      "achievements": [
+        { "text": "Applied Agile principles in an analog environment, prioritizing features and adjusting scope for a two-person off-grid build.", "tags": ["Agile", "Scope Management"] },
+        { "text": "Navigated extreme resource constraints using systems thinking and trauma resilience to source water, power, and shelter.", "tags": ["Systems Thinking", "Problem Solving"] },
+        { "text": "Designed a thriving desert farm using indigenous Zuni waffle garden methods and reclaimed materials.", "tags": ["Sustainability", "Design"] }
+      ]
+    },
+    {
+      "job_id": "informa_sr_dir",
+      "company": "UBM / Informa",
+      "role": "Sr. Director of Product",
+      "tenure": "2005 to 2020",
+      "location": "Remote / San Francisco",
+      "impact_metrics": {
+        "p_and_l": "2.5M",
+        "scale": "100+ stakeholders",
+        "revenue_supported": "Billions"
+      },
+      "persona_alignment": ["corporate", "data_heavy", "leadership"],
+      "achievements": [
+        { "text": "Managed a 2.5M P&L and directed product strategy for the Game Developer Network, supporting billions in annual revenue.", "tags": ["P&L", "Finance"] },
+        { "text": "Built and scaled a global data warehouse and predictive analytics platform from 3 to 100+ internal stakeholders.", "tags": ["Data Warehouse", "Scalability"] },
+        { "text": "Led end to end RFP and deployment of global talent systems including Jobvite and multiple LMS platforms.", "tags": ["HR Tech", "Vendor Selection"] },
+        { "text": "Championed user empathy by advocating for low-cost, dev-built solutions, cutting millions in unnecessary vendor spend.", "tags": ["Cost Optimization", "Advocacy"] },
+        { "text": "Translated complex data models into accessible, iterative interfaces for non-technical users to remove SQL bottlenecks.", "tags": ["UX", "Data Democratization"] }
+      ]
+    },
+    {
+      "job_id": "taos_advocacy",
+      "company": "Taos Off-Grid Housing Rights Coalition",
+      "role": "Co-Organizer",
+      "tenure": "2021 to 2023",
+      "location": "Taos, NM",
+      "persona_alignment": ["advocacy", "leadership"],
+      "achievements": [
+        { "text": "Organized 100+ residents to catalyze legislative review of zoning laws targeting off-grid dwellings.", "tags": ["Organizing", "Policy"] },
+        { "text": "Secured 5,000 in grants for regenerative land-use and designed WordPress application stacks for food sovereignty.", "tags": ["Grant Writing", "Resilience"] }
+      ]
+    },
+    {
+      "job_id": "big_minds_01",
+      "company": "Big Minds Unschool",
+      "role": "Trustee & Operations Advisor",
+      "tenure": "2016 to 2018",
+      "location": "El Sobrante, CA",
+      "persona_alignment": ["governance", "ops"],
+      "achievements": [
+        { "text": "Led transition from LLC to nonprofit, resolving financial inconsistencies and securing IRS compliance.", "tags": ["Nonprofit", "Compliance"] }
+      ]
+    }
+  ],
+  "narrative_bridges": [
+    {
+      "period": "2021 to 2025",
+      "context": "Pivot to Sovereignty",
+      "narrative": "Transformed a career pause into a living R&D lab for AI-human collaboration. Mastered off-grid systems architecture and agentic AI workflows to build a modernized, resilient leadership toolkit."
     }
   ],
   "skills_inventory": {
-    "technical": ["Python", "Linux MX", "Git", "SQL"],
-    "domain": ["Product Lifecycle", "GTM Strategy", "B2B Sales Ops"]
+    "technical": ["Python", "SQL", "Prompt Design", "AI-Integrated UX", "Looker", "Tableau", "WordPress", "Linux MX"],
+    "product": ["P&L Management", "GTM Strategy", "Agile Rituals", "RFP Management", "Product Lifecycle"],
+    "leadership": ["Ethical AI Advocacy", "Cross-functional Influence", "Trauma-Informed Design", "Servant Leadership"]
   }
 }
