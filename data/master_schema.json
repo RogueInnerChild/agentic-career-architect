@@ -5,8 +5,18 @@
     "last_updated": "2026-02-06"
   },
   "professional_identity": {
-    "high_priority_keywords": ["Agentic Workflows", "B2B SaaS Strategy", "Product Operations", "Data Warehouse", "Neurodivergent UX"],
-    "target_personas": ["corporate_homecoming", "startup_pioneer", "ops_specialist"]
+    "high_priority_keywords": [
+      "Agentic Workflows",
+      "B2B SaaS Strategy",
+      "Product Operations",
+      "Data Warehouse",
+      "Neurodivergent UX"
+    ],
+    "target_personas": [
+      "corporate_homecoming",
+      "startup_pioneer",
+      "ops_specialist"
+    ]
   },
   "experience_lake": [
     {
@@ -54,7 +64,7 @@
       "job_id": "informa_sr_dir",
       "company": "UBM / Informa",
       "role": "Sr. Director of Product",
-      "tenure": "2005 to 2020",
+      "tenure": "2011 to 2020",
       "location": "Remote / San Francisco",
       "impact_metrics": {
         "p_and_l": "2.5M",
@@ -68,6 +78,48 @@
         { "text": "Led end to end RFP and deployment of global talent systems including Jobvite and multiple LMS platforms.", "tags": ["HR Tech", "Vendor Selection"] },
         { "text": "Championed user empathy by advocating for low-cost, dev-built solutions, cutting millions in unnecessary vendor spend.", "tags": ["Cost Optimization", "Advocacy"] },
         { "text": "Translated complex data models into accessible, iterative interfaces for non-technical users to remove SQL bottlenecks.", "tags": ["UX", "Data Democratization"] }
+      ]
+    },
+    {
+      "job_id": "informa_hrbp",
+      "company": "UBM / Informa",
+      "role": "HR Business Partner / Recruiting",
+      "tenure": "2008 to 2011",
+      "location": "San Francisco, CA",
+      "persona_alignment": ["corporate", "ops"],
+      "impact_metrics": {
+        "scale": "Global workforce engagement",
+        "tools_deployed": "Jobvite, Reward & Recognition platforms"
+      },
+      "achievements": [
+        { "text": "Led the end-to-end RFP, selection, and deployment of a global talent management system (Jobvite).", "tags": ["HR Tech", "RFP", "Implementation"], "priority": 1 },
+        { "text": "Successfully managed multiple Learning Management Systems (LMS) to drive skill development across a global workforce.", "tags": ["LMS", "Training"], "priority": 2 }
+      ]
+    },
+    {
+      "job_id": "informa_client_services",
+      "company": "UBM / Informa (HDI)",
+      "role": "Client Services Manager",
+      "tenure": "2006 to 2008",
+      "location": "San Francisco, CA",
+      "persona_alignment": ["ops", "customer_success"],
+      "impact_metrics": {
+        "context": "Proprietary LMS management"
+      },
+      "achievements": [
+        { "text": "Managed client relationships and technical support for proprietary Learning Management Systems.", "tags": ["Client Services", "LMS"], "priority": 3 },
+        { "text": "Bridged the gap between customer pain points and technical product requirements for early-stage platform features.", "tags": ["User Feedback", "Discovery"], "priority": 2 }
+      ]
+    },
+    {
+      "job_id": "informa_media_biz",
+      "company": "UBM / Informa",
+      "role": "Media Business Manager / EA",
+      "tenure": "2005 to 2006",
+      "location": "San Francisco, CA",
+      "persona_alignment": ["ops"],
+      "achievements": [
+        { "text": "Progressed through foundational roles supporting media operations and executive leadership, gaining deep organizational insight.", "tags": ["Operations", "Business Management"], "priority": 4 }
       ]
     },
     {
